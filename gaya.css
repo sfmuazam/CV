@@ -1,0 +1,105 @@
+.jumbotron{
+	padding-top : 8rem;
+	background-color : #e2edff;
+}
+
+.minathobi{
+	background-color : #e2edff;
+}
+			
+#projects{
+	background-color : #e2edff;
+}
+
+.m{
+	
+}
+
+.skill-img{
+	width : 50%;
+	text-align : center;
+	margin-top : 1rem;
+	margin-right : auto;
+	margin-left : auto;
+}
+
+.resume-wrapper {
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
+
+.resume-wrapper-inner {
+  max-width: 1000px;
+}
+
+.resume-timeline:before {
+  content: "";
+  display: inline-block;
+  width: 3px;
+  height: 100%;
+  background: #d0cfe2;
+  left: 6px;
+  top: 4px;
+  position: absolute;
+}
+
+.resume-timeline-item:before {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  left: -32px;
+  top: 3px;
+  width: 15px;
+  height: 15px;
+  border: 4px solid #7270a8;
+  background: white;
+  border-radius: 50%;
+}
+
+.resume-section-title {
+  font-size: 1.25rem;
+  position: relative;
+  color: #59578E;
+}
+
+.resume-section-title:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1.5px;
+  background: #8d9aad;
+}
+
+.resume-section-content {
+  color: #58677c;
+}
+
+.resume-timeline {
+  padding-left: 2rem;
+}
+
+.resume-position-time {
+  font-size: 0.875rem;
+  color: #aab4c3;
+}
+
+.resume-position-title {
+  font-size: 1.125rem;
+  color: #434E5E;
+}
+
+.resume-social {
+  font-size: 0.875rem;
+}
+
+.resume-social .fa-container {
+  font-size: 0.875rem;
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  border-radius: 0.125rem;
+  background: white;
+  color: #59578E;
+}
