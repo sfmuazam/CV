@@ -1,6 +1,6 @@
 .jumbotron{
 	padding-top : 8rem;
-	background-color : #ffbf27;
+	background-color : #e2edff;
 }
 
 .pad{
@@ -8,19 +8,13 @@
 	padding-bottom : 6rem;
 }
 
-.bg-oren{
-	background-color : #ef7834;
-}
-
 #minathobi{
-	background-color : #ffbf27;
+	background-color : #e2edff;
 }
-
-.text-link:link{
-	text-decoration : none;
-	color: #ef7834;
+			
+#projects{
+	background-color : #e2edff;
 }
-
 
 .skill-img{
 	width : 50%;
@@ -44,7 +38,7 @@
   display: inline-block;
   width: 3px;
   height: 100%;
-  background: #ffbf27;
+  background: #d0cfe2;
   left: 6px;
   top: 4px;
   position: absolute;
@@ -58,22 +52,21 @@
   top: 3px;
   width: 15px;
   height: 15px;
-  border: 4px solid #ef7834;
+  border: 4px solid #7270a8;
   background: white;
   border-radius: 50%;
 }
 
 .resume-section-title {
   font-size: 1.25rem;
-  font-family: serif;
   position: relative;
-  color: #ef7834;
+  color: #59578E;
 }
 
 .resume-sectio-title {
-  font-size: 1.25rem;
-  font-family: serif;
+  font-size: 2rem;
   position: relative;
+  color: #59578E;
 }
 
 .resume-section-title:after {
@@ -83,20 +76,10 @@
   bottom: 0;
   width: 100%;
   height: 1.5px;
-  background: #ef7834;
-}
-
-.judul{
-	font-family:serif;
-}
-
-.subjudul{
-	font-family:sans-serif;
-	color:#ffffff;
+  background: #8d9aad;
 }
 
 .resume-section-content {
-	font-family: sans-serif;
   color: #58677c;
 }
 
@@ -111,7 +94,7 @@
 
 .resume-position-title {
   font-size: 1.125rem;
-  color: #ef7834;
+  color: #434E5E;
 }
 
 .resume-social {
@@ -126,4 +109,13 @@
   border-radius: 0.125rem;
   background: white;
   color: #59578E;
+}
+
+@font-face {
+  font-family: HorFont;
+  src: url(horizontal.ttf);
+}
+
+.horfont {
+  font-family: HorFont;
 }
