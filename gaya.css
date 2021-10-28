@@ -69,13 +69,16 @@
 .resume-section-title {
   font-size: 1.25rem;
   position: relative;
-  color: #59578E;
 }
 
 .resume-sectio-title {
   font-size: 2rem;
   position: relative;
-  color: #59578E;
+}
+
+.title-about {
+  font-size: 3rem;
+  position: relative;
 }
 
 .resume-section-title:after {
