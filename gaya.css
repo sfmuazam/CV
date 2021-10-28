@@ -18,7 +18,9 @@
 
 .text-link:link{
 	text-decoration : none;
+	color: #ef7834;
 }
+
 
 .skill-img{
 	width : 50%;
@@ -72,7 +74,6 @@
   font-size: 1.25rem;
   font-family: serif;
   position: relative;
-  color: #ef7834;
 }
 
 .resume-section-title:after {
@@ -91,7 +92,7 @@
 
 .subjudul{
 	font-family:sans-serif;
-	color:#ef7834;
+	color:#ffffff;
 }
 
 .resume-section-content {
