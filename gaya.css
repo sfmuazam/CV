@@ -1,6 +1,7 @@
 .jumbotron{
 	padding-top : 8rem;
-	background-color : #e2edff;
+	background-color : #99582a;
+	color : #ffffff;
 }
 
 .pad{
@@ -8,12 +9,22 @@
 	padding-bottom : 6rem;
 }
 
+#about{
+	background-color : #ffe6a7;
+}
+
 #minathobi{
-	background-color : #e2edff;
+	background-color : #99582a;
+	color : #ffffff;
 }
 			
-#projects{
-	background-color : #e2edff;
+#skill{
+	background-color : #ffe6a7;
+}
+
+.bg-coklat{
+	--bs-bg-opacity : 1;
+	background-color : #432818;
 }
 
 .skill-img{
@@ -38,7 +49,7 @@
   display: inline-block;
   width: 3px;
   height: 100%;
-  background: #d0cfe2;
+  background: #99582a;
   left: 6px;
   top: 4px;
   position: absolute;
@@ -52,7 +63,7 @@
   top: 3px;
   width: 15px;
   height: 15px;
-  border: 4px solid #7270a8;
+  border: 4px solid #432818;
   background: white;
   border-radius: 50%;
 }
@@ -60,13 +71,13 @@
 .resume-section-title {
   font-size: 1.25rem;
   position: relative;
-  color: #59578E;
+  color: #432810;
 }
 
 .resume-sectio-title {
   font-size: 1.25rem;
   position: relative;
-  color: #59578E;
+  color: #ffffff;
 }
 
 .resume-section-title:after {
@@ -76,11 +87,11 @@
   bottom: 0;
   width: 100%;
   height: 1.5px;
-  background: #8d9aad;
+  background: #432818;
 }
 
 .resume-section-content {
-  color: #58677c;
+  color: #432818;
 }
 
 .resume-timeline {
@@ -89,12 +100,12 @@
 
 .resume-position-time {
   font-size: 0.875rem;
-  color: #aab4c3;
+  color: #99582a;
 }
 
 .resume-position-title {
   font-size: 1.125rem;
-  color: #434E5E;
+  color: #6f1d1b;
 }
 
 .resume-social {
@@ -108,5 +119,10 @@
   height: 24px;
   border-radius: 0.125rem;
   background: white;
-  color: #59578E;
+  color: #99582a;
+}
+
+.a:link {
+	color:#99582a;
+	text-decoration:underline;
 }
