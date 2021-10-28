@@ -20,6 +20,11 @@
 	background-color : #e2edff;
 }
 
+.text-link{
+	color : #193946;
+	text-decoration : none;
+}
+
 .skill-img{
 	width : 50%;
 	text-align : center;
