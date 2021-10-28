@@ -63,12 +63,14 @@
 
 .resume-section-title {
   font-size: 1.25rem;
+  font-family: serif;
   position: relative;
   color: #ef7834;
 }
 
 .resume-sectio-title {
   font-size: 1.25rem;
+  font-family: serif;
   position: relative;
   color: #ef7834;
 }
@@ -83,7 +85,17 @@
   background: #ef7834;
 }
 
+.judul{
+	font-family:serif;
+}
+
+.subjudul{
+	font-family:sans-serif;
+	color:#ef7834;
+}
+
 .resume-section-content {
+	font-family: sans-serif;
   color: #58677c;
 }
 
