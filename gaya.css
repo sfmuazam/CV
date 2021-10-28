@@ -3,6 +3,11 @@
 	background-color : #e2edff;
 }
 
+.pad{
+	padding-top : 6rem;
+	padding-bottom : 6rem;
+}
+
 #minathobi{
 	background-color : #e2edff;
 }
@@ -58,6 +63,12 @@
   color: #59578E;
 }
 
+.resume-sectio-title {
+  font-size: 1.25rem;
+  position: relative;
+  color: #59578E;
+}
+
 .resume-section-title:after {
   content: "";
   position: absolute;
@@ -99,4 +110,3 @@
   background: white;
   color: #59578E;
 }
-
