@@ -131,3 +131,15 @@
 .horfont {
   font-family: HorFont;
 }
+
+.btn-outline-reg{
+	color:#fff;
+	background-color:#193946;
+	border-color:#193946
+}
+
+.btn-outline-reg:hover{
+	color:#193946;
+	background-color:#ffffff;
+	border-color:#193946;
+}
