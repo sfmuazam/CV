@@ -1,0 +1,26 @@
+.btn-reg{
+	color:#fff;
+	background-color:#193946;
+	border-color:#193946
+}
+
+.btn-reg:hover{
+	color:#193946;
+	background-color:#e2edff;
+	border-color:#193946;
+}
+
+.ch{
+	padding:.5rem 1rem;
+	
+	padding-top:1.5rem;
+	padding-bottom:1.5rem;
+	color:#ffffff;
+	background-color:#193946;
+	border-bottom:1px solid #193946;
+}
+	
+.ch:first-child{
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+}
